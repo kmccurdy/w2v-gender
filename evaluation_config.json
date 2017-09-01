@@ -1,0 +1,15 @@
+{
+  "tests": [
+    { "attributes": ["male", "female"], 
+      "targets": ["career", "family"],
+      "name": "Topical career-family bias"},
+    { "attributes": ["male", "female"],  
+      "targets": ["objects_mDEfES", "objects_fDEmES"],
+      "name": "Grammatical gender masculine-feminine bias"}
+  ],
+  "terms": "words_to_test.json",
+  "model_path": {
+    "unprocessed_dir": "w2v-models/unprocessed",
+    "degendered_dir": "w2v-models/degendered"
+  }
+}

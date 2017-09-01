@@ -1,0 +1,58 @@
+{
+  "en": {
+    "male": ["male", "man", "boy", "brother", "father", 
+              "grandfather", "uncle", "son"],
+    "female": ["female", "woman", "girl", "sister", "mother", 
+                "grandmother", "aunt", "daughter"],
+    "career": ["executive", "management", "professional", "corporation", 
+                "salary", "office", "business", "career"],
+    "family": ["home", "parents", "children", "family", "cousins", 
+                "marriage", "wedding", "relatives"],
+    "objects_mDEfES": ["toaster", "moon", "spoon", "broom", 
+                        "whale", "frog", "fox"],
+    "objects_fDEmES": ["clock", "sun", "fork", "toothbrush", 
+                        "mouse", "snail", "cat"]
+    },
+  "de": {
+    "male": ["Mann", "Junge", "Vater", "Männlich", "Großvater", 
+              "Ehemann", "Sohn", "Onkel"],
+    "female": ["Mädchen", "Weiblich", "Tante", "Tochter", 
+                "Ehefrau", "Frau", "Mutter", "Großmutter"],
+    "career": ["Verwaltung", "Berufstätigkeit", "Unternehmen", 
+                "Gehalt", "Büro", "Verdienst", "Karriere"],
+    "family": ["Zuhause", "Eltern", "Kinder", "Familie", 
+                "Hochzeit", "Ehe", "Verwandte"],
+    "objects_mDEfES": ["Toaster", "Mond", "Löffel", "Besen", 
+                        "Wal", "Frosch", "Fuchs"],
+    "objects_fDEmES": ["Uhr", "Sonne", "Gabel", "Zahnbürste", 
+                        "Maus", "Schnecke", "Katze"]
+    },
+  "es": {
+    "male": ["Hombre", "Niño", "Padre", "Masculino", 
+              "Abuelo", "Esposo", "Hijo", "Tio"],
+    "female": ["Niña", "Femenino", "Tía", "Hija", "Esposa", 
+                "Mujer", "Madre", "Abuela"],
+    "career": ["ejecutivo", "gestión", "profesional", 
+                "empresa", "salario", "oficina", "empresa", "carrera"],
+    "family": ["casa", "padres", "niños", "familia", "primos", 
+                "matrimonio", "boda", "familiares"],
+    "objects_mDEfES": ["tostadora", "luna", "cuchara", "escoba", 
+                        "ballena", "rana", "zorra"],
+    "objects_fDEmES": ["reloj", "sol", "tenedor", "cepillo", 
+                        "ratón", "caracol", "gato"]
+    },
+  "nl": {
+    "male": ["Man", "Jongen", "Vader", "Mannelijk", "Opa", 
+              "Echtgenoot", "Zoon", "Oom"],
+    "female": ["Meisje", "Vrouwelijk", "Tante", "Dochter", 
+              "Echtgenote", "Vrouw", "Moeder", "Oma"],    
+    "career": ["bestuur", "beheer", "professioneel", "corporatie", 
+                "salaris", "kantoor", "bedrijf", "beroep"],
+    "family": ["huis", "ouders", "kinderen", "familie", 
+                "neven", "huwelijk", "bruiloft", "verwant"],
+    "objects_mDEfES": ["broodrooster", "maan", "lepel", 
+                        "bezem", "walvis", "kikker", "vos"],
+    "objects_fDEmES": ["klok", "zon", "vork", "tandenborstel", 
+                        "muis", "slak", "kat"]
+  }
+}
